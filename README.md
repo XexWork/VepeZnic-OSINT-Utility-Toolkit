@@ -11,6 +11,7 @@ VepeZnic is a multifunctional console utility designed for information gathering
 
 ⚔️ DDoS Tools — Simulate network stress tests (1.0 & 2.0)
 
+
 🧰 Proxy & Password Generator — Tools for anonymity and brute force
 
 🕵️ Manuals & Docs — Guides on OSINT, swatting, anonymity, account deletion
@@ -28,3 +29,4 @@ This tool is intended for educational, ethical hacking, and cybersecurity resear
 
 📦 Developer
 Created by @xexcoding
+![image](https://github.com/user-attachments/assets/4de92ce3-f457-4e53-9107-17da2d722e34)
